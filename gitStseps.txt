@@ -1,0 +1,50 @@
+git init                                      -  initialize empty git repo on local
+git add <filename>                            -  Add file
+git add .                                     -  Add all files
+git commit -m "msg"                           -  commit added file 
+git status                                    - current status
+git status -s                                 - current status
+git log                                       - show list of all commits till
+ 
+git branch				      - show all branches
+git branch b1                                 -  create branch b1
+git checkout b1                               -  move to brach b1
+git checkout -b b1                            - create and move to brach b1
+
+git merge b1                                   - merge brach b1
+
+
+git checkout <log>                             - move to previous version using logs shown in git log
+
+
+
+
+
+
+////////////////////////////////////////// 
+
+HOW TO PUSH TO GITHUB.COM     // 
+
+create empty repository on gihub
+
+       cmd 1  : git remote add origin link
+       cmd 2  : git push origin master
+                username : vinayakkhambe (github account username)
+                 :  // generated using 2step verfication
+                
+              
+/// HOW TO GENERATE TOKEN/PASSWORD
+
+  1. settings
+  2. account settings
+  3. developer settings
+  4. personal access token
+  5. generate token
+
+
+
+
+
+              
+
+
